@@ -9,6 +9,6 @@ Problemas Durante el desarrollo:
 
 Gracias por jugar Peach Invaders
 
-Atte el Equipo de Peacha Invader
+Atte el Equipo de Peach Invader
 
 
