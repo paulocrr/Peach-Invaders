@@ -7,4 +7,8 @@ Problemas Durante el desarrollo:
 -Optimizacion al momento de dibujar las imagenes en a pantalla ya que comian muchos recursos sin embargo se logro optimizar mucho el rendimiento del juego
 -Conversion de int a char para poder mostrar los puntajes y los dolares
 
+Gracias por jugar Peach Invaders
+
+Atte el Equipo de Peacha Invader
+
 
